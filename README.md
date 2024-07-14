@@ -9,4 +9,4 @@ Para eliminar tu cuenta de ExplorApp y todos los datos asociados directamente de
 4. Presiona el botón **Eliminar** y espera a que termine de procesar la solicitud.
 5. Finalmente, serás redirigido a la interfaz principal de registro.
 
-Si tienes alguna pregunta o necesitas asistencia adicional, no dudes en contactarnos en `rubenamoretti33e@gmail.com`.
+Si tienes alguna pregunta o necesitas asistencia adicional, no dudes en contactarnos en `arcanecompanyperu@gmail.com`.
